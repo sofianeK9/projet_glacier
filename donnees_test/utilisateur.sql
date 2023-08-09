@@ -1,0 +1,15 @@
+insert into utilisateur (id, email, password, role_id) values (1, 'ccothey0@msn.com', 'metus', 3);
+insert into utilisateur (id, email, password, role_id) values (2, 'pdabernott1@163.com', 'id', 7);
+insert into utilisateur (id, email, password, role_id) values (3, 'hprantl2@hatena.ne.jp', 'convallis', 5);
+insert into utilisateur (id, email, password, role_id) values (4, 'alittrik3@ebay.com', 'id', 1);
+insert into utilisateur (id, email, password, role_id) values (5, 'gdelisle4@google.de', 'amet', 8);
+insert into utilisateur (id, email, password, role_id) values (6, 'kralls5@squarespace.com', 'id', 7);
+insert into utilisateur (id, email, password, role_id) values (7, 'faxtonne6@symantec.com', 'orci', 2);
+insert into utilisateur (id, email, password, role_id) values (8, 'ntommasi7@blogs.com', 'sit', 4);
+insert into utilisateur (id, email, password, role_id) values (9, 'tlarder8@360.cn', 'odio', 5);
+insert into utilisateur (id, email, password, role_id) values (10, 'acocklin9@loc.gov', 'eu', 6);
+insert into utilisateur (id, email, password, role_id) values (11, 'ilyarda@forbes.com', 'justo', 6);
+insert into utilisateur (id, email, password, role_id) values (12, 'sscrewtonb@ycombinator.com', 'fermentum', 7);
+insert into utilisateur (id, email, password, role_id) values (13, 'ocubberleyc@nydailynews.com', 'vulputate', 3);
+insert into utilisateur (id, email, password, role_id) values (14, 'clentond@yelp.com', 'sem', 3);
+insert into utilisateur (id, email, password, role_id) values (15, 'gcreamere@elpais.com', 'ligula', 2);
